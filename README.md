@@ -14,6 +14,10 @@ La facilité d’accès à une multitude des données cartographiables et la mis
 ## Credits
 Jean-Christophe Plantin (design), Mehdi Bourgeois (design & development), Ryan King (sound)
 
+## Publication
+
+[BleuOrange, revue de littérature hypermediatique - (2009)](https://archive.nt2.uqam.ca/bleuorange-2/bleuorange/03/topo/index/index.html)
+
 ## Screenshots and video
 ![Screenshot](./assets/capture-1.jpg)
 [![Watch the video](./assets/logo-1.png)](./assets/to-po-iesis-video.mp4)
